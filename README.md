@@ -1,4 +1,4 @@
-## Olá, eu sou o Davi.
+## Olá! eu sou o Davi.
 <div align="center">
   <a href="https://github.com/daviArttur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviArttur&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true" title_color="#000"/>
