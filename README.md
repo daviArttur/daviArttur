@@ -14,7 +14,7 @@
   <img align="center" alt="Davi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Davi-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Davi-Cypress" height="30" width="40" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg">
+  <img align="center" alt="Davi-Cypress" height="30" width="40" src="https://docs.nestjs.com/assets/logo-small.svg">
  
 </div>
   
