@@ -17,10 +17,10 @@
   <img align="center" alt="Foto da tecnologia NestJs" height="30" width="40" src="https://docs.nestjs.com/assets/logo-small.svg">
   <img align="center" alt="Foto da tecnologia NodeJs" height="30" width="40" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667">
  <img align="center" alt="Foto da tecnologia PostgreSQL" height="30" width="40" src="https://www.postgresql.org/media/img/about/press/elephant.png">
+ <img align="center" alt="Foto da tecnologia Jest" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png">
 </div>
   
   ##
- https://www.postgresql.org/media/img/about/press/elephant.png
 <div> 
 
   <a href = "mailto:daviartur2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
